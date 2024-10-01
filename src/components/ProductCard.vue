@@ -13,7 +13,7 @@
     props: {
       product: {
         type: Object,
-        required: false
+        required: true
       }
     },
     methods: {
